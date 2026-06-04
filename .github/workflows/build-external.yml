@@ -1,5 +1,4 @@
 name: External Build with Certificate
-
 on:
   workflow_dispatch:
     inputs:
